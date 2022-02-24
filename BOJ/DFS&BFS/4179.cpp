@@ -11,7 +11,7 @@ int dist_j[1002][1002];
 int dist_fire[1002][1002];
 int dx[4] = { 1,0,-1,0 };
 int dy[4] = { 0,1,0,-1 };
-int n, m
+int n, m;
 
 int main(void) {
     ios::sync_with_stdio(0);
